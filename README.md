@@ -8,5 +8,5 @@ I got to work and started going folder by folder to assess the contents, not put
 ![20231003_152906](https://github.com/rincovi/LIS-590-a-Diocesan-House-Victoria-Rincon/assets/131549576/d2d40b20-c099-4af9-9e03-580cd6f115ca)
 
 **Oct. 10th**
-
+Today was very satisfying. First, Mr. Beuer went over original order.....After our conversation I got to work on creating subfolder for my collection.
 **Oct. 17th**
