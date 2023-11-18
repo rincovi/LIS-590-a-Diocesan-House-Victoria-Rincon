@@ -21,6 +21,8 @@ Before we began for the day, Mr. Bauer and I went over the processing plan and s
 **Oct. 31st**
 
 Happy Halloween!
+![Screenshot 2023-10-31 152914](https://github.com/rincovi/LIS-590-a-Diocesan-House-Victoria-Rincon/assets/131549576/a7d1a040-cfcc-4ee7-933e-1749c7ac86aa)
+![Screenshot 2023-10-31 152937](https://github.com/rincovi/LIS-590-a-Diocesan-House-Victoria-Rincon/assets/131549576/68973499-3330-4931-ae4c-a73b28cb3578)
 
 **Nov. 7th**
 Mr. Bauer was out sick this week. I was asked not to come to the Diocesan House but was given some work to do remotely. Thus, this log will be relatively short. I was tasked to look through files for the Underhill House and then upload them to Preservica. I was instructed to place it under the "Religious Orders & Other Parishes and Missions" pathway. I was permitted to create new files for the documents should I see fit. The folder had business plans, documents about the vision and mission of the house, old to-do lists, and some other miscellaneous files. After a few hours, I concluded that based on how it was already arranged, I had no firm reason to alter the order. I uploaded it and applied Dublin Core so that I may add some metadata to the files.
