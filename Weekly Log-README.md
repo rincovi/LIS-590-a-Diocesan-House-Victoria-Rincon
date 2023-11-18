@@ -17,6 +17,12 @@ Most importantly, Mr. Bauer told me that when all is said and done, I have to do
 
 **Oct. 24th**
 Before we began for the day, Mr. Bauer and I went over the processing plan and some of my questions regarding it. I wanted to make sure I did it correctly, especially when it came to describing the condition of the collection; Mr. Bauer even recommeneded a book on condition reporting I should check out when I have the time. Overall, the things I need to keep an eye out for are tearing, foxing, yellowing of the pages, photos and pages sticking together, etc. It will be helpful in creating a finding aid and it also lets an archivsit know if something needs to be seen by a conservator or needs further preservation. I noticed that the collection did have a bit of yellowing and some tearing so I marked it down. Mr. Bauer went on to explain the difference between paper, records and collections. Papers refer to individuals, records refer to businesses, corporations, non-profits and organizations of that naturel and collections are often materials are taken from different places and briniging them together so they do not have one provenance, they have multiple. Mr. Bauer was quick to point out though that these are generalities and that there are exceptions. In my case, what I was working with was a considered a record, because they all come from the same source. 
+
 **Oct. 31st**
+Happy Halloween!
+
 **Nov. 7th**
-**Nov 24th**
+Mr. Bauer was out sick this week I was asked to not come in but was given some work to do remotely, thus this log will be relatively short. I was tasked to look through files for the Underhill House, then upload them to Preservica. I was instructed to place it under the "Religious Orders & Other Parishes and Missions" pathway I was given permission to create new files for the documents should I see it fit. The folder had business plans, documents about the vision and mission of the house, old to-do lists and some other miscellanous files. After a few hours I came to the conclusion that based on how it was already arranged I had no firm reason as to why I should alter the order. I uploaded it and applied Dublin Core so I may add some metadata to the files. 
+
+**Nov 14th**
+This week I spoke with Mr. Bauer about my work with the Underhill House files, 
