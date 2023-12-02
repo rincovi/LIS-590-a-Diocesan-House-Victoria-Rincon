@@ -75,5 +75,10 @@ The bylaws file falls where it does in this order because those pertain to how a
 ![20231114_145033](https://github.com/rincovi/LIS-590-a-Diocesan-House-Victoria-Rincon/assets/131549576/99b0db3f-f93a-4eaf-930d-e86bee275a91)
 ![20231114_150128](https://github.com/rincovi/LIS-590-a-Diocesan-House-Victoria-Rincon/assets/131549576/56c5ec6c-4be7-4039-a4c8-b29062027992)
 
+**Nov. 29th** 
+In my last log I mentioned my desire to do some more work over the Thanksgiving break, although i did explore Preservica a bit more there was no time over the to go through the Underhill files and add more metadata. I explained this to Mr. Bauer and according to him if he was not working over the break, neither should I. Thus I will not dwell on this and move forward.
 
+Today was the day! I got to start on the finding aid....Since the quarter is wrapping up I confirmed with Mr. Bauer that I would be coming Friday morning to do some extra work. Mr. Bauer said I was welcome to come but reminded me that he would not be at the Diocesan House, he would be at St. Marks. Howver, since it is close by he said since I was arriving in the morning he coild come do a check in. 
 
+**Dec. 1st**
+I came in at 10am today to continue working on the finding aid. Personally, I am glad I made this decision there was information from the files I need to help complete the document. I 
